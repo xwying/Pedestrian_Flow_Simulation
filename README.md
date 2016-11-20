@@ -21,5 +21,6 @@ Here is how you initialize the map in Matlab:
 
 ### 2.3 Test the program
 Now you can try to run the program, if everything went well, you will see a dynamic figure shows the real-time pedestrian flow. Your animation should look like these:
+
 ![Picture1](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture1.png)
 ![Picture2](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture2.png)
