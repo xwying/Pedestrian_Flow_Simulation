@@ -16,7 +16,9 @@ Check [Example_Input.xlsx](https://github.com/xwying/Pedestrian_Flow_Simulation/
 ### 2.2 Create map in Matlab
 Here is how you initialize the map in Matlab:
 1. Convert your map into matrix using symbols shown above. For testing purpose, try to use my example input matrix.
+
 2. Open CA.m in matlab. 
+
 3. Create an matrix named "Platform1" in workspace, copy and paste the example map into the "Platform1" matrix
 
 ### 2.3 Test the program
