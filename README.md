@@ -25,5 +25,5 @@ Now you can try to run the program, if everything went well, you will see a dyna
 ![Picture1](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture1.png)
 ![Picture2](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture2.png)
 
-## 3.Program Flowchart & Contact information
+## 3.Program Flowchart & Contact Information
 Most of comments in this program were written in Chinese, I'm sorry if it doesn't display due to the difference of environment. I post the flowchart of the program [here](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Flowchart.png). If you have any problem or suggestion with this simulator, please feel free to contact [sslf@foxmail.com](sslf@foxmail.com)
