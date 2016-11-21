@@ -1,6 +1,6 @@
 # Pedestrian Flow Simulator
 ## 1.Introduction
-This simulator was written in Matlab, and it is used to dynamically simulate the pedestrian flow in an enclosed are. It is based on [CA(Cellula Automaton)](https://en.wikipedia.org/wiki/Cellular_automaton) theory, and the output is real-time animation.
+This simulator was written in Matlab, and it is used to dynamically simulate the pedestrian flow in an enclosed area. It is based on [CA(Cellula Automaton)](https://en.wikipedia.org/wiki/Cellular_automaton) theory, and the output is real-time animation.
 
 ## 2.How to use
 This program does not support importing map from outer file (I failed to finish this function since I was pretty busy at that time), so we have to initialize the input manually. Here is an [example input file](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_Input.xlsx), this example is a map of an metro platform. In this map, pedestrians are coming to platfrom from trains, and leaving the platfrom by exits.
