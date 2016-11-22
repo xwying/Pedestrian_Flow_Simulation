@@ -11,7 +11,7 @@ Check [Example_Input.xlsx](https://github.com/xwying/Pedestrian_Flow_Simulation/
 + Number 1 stands for pedestrians(they will also be generated from entrance. In this example, there is no pedestrian at the beginning).
 + Number 2 stands for exits.
 + Number 3 stands for walls, which can not be entered.
-+ Number 4 stands for entrance, in this map, it symbolize the door on the cars.
++ Number 4 stands for entrances, in this map, it symbolize the door on the cars.
 
 ### 2.2 Create map in Matlab
 Here is how you initialize the map in Matlab:
@@ -28,5 +28,12 @@ Now you can try to run the program, if everything went well, you will see a dyna
 ![Picture1](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture1.png)
 ![Picture2](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Example_output/Picture2.png)
 
-## 3.Program Flowchart & Contact Information
-Most of comments in this program were written in Chinese, I'm sorry if it doesn't display due to the difference of environment. I post the flowchart of the program [here](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Flowchart.png). If you have any problem or suggestion with this simulator, please feel free to contact [sslf@foxmail.com](sslf@foxmail.com)
+## 3.Build your own map
+After testing by usng the example map, you can now build your own map to solve your specific problem. Here's some tips for you to build your own map.
++ Follow the symbols explainations to build your map.
++ It is recommended to build your map in an enclosed area. If it is not enclosed, the program will still runs, but it might not be able to evaluate the pedestrian flow correctly.
++ If there is no pedestrian in the map at the beginning, you have to include entrances in the map.
++ You have to include at least one exist in the map.
+
+## 4.Program Flowchart & Contact Information
+Most of comments in this program were written in Chinese, I'm sorry if it doesn't display due to the difference of environment. I post the flowchart of the program [here](https://github.com/xwying/Pedestrian_Flow_Simulation/blob/master/Flowchart.png). If you have any problem or suggestion with this simulator, please feel free to contact sslf[at]foxmail[dot]com
